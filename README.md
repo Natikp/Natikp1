@@ -1,9 +1,7 @@
 ![JoinhaGordinhoGIF (2)](https://user-images.githubusercontent.com/111080100/190262410-2f928252-30f7-474c-96b9-7b186284a5b1.gif)
 
-<center>
-Hello, my name is Nathalia!</center>
-
-  
+<center>Olá!
+Me chamo Nathalia, tenho 28 anos e sou mamãe do Pedro. E minha jornada no mundo da tecnologia tem sido incrivelmente empolgante.</center>
 
 <br>Olá!
 Me chamo Nathalia, tenho 28 anos e sou mamãe do Pedro. E minha jornada no mundo da tecnologia tem sido incrivelmente empolgante.
