@@ -5,9 +5,9 @@ Hello, my name is Nathalia!</center>
 
   
 
-<br>🎓Sou estudante de Salesforce!<br>
-🦀Tenho 27 anos.
-</br>
+<br>Estudante de Gestão da Tecnologia da Informação.!<br>
+28 anos. Mamãe do Pedro. Commerce cloud & Marketing cloud Salesforce.
+<br>
 
 
 
