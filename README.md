@@ -3,8 +3,7 @@
 <center>Olá!
 Me chamo Nathalia, tenho 28 anos e sou mamãe do Pedro. E minha jornada no mundo da tecnologia tem sido incrivelmente empolgante.</center>
 
-<br>Olá!
-Me chamo Nathalia, tenho 28 anos e sou mamãe do Pedro. E minha jornada no mundo da tecnologia tem sido incrivelmente empolgante.
+<br>
 
 Ao longo do último ano, me dediquei aos estudos de Salesforce, mas minha paixão por tecnologia vem de longa data. Meu ponto de partida foi o bootcamp da Soul Code, que me permitiu uma imersão profunda no mundo da tecnologia e do ecossistema Salesforce. Lá, tive uma boa base para atuar pela sottama, uma oportunidade de atuar como desenvolvedora salesforce, o que me proporcionou insights valiosos sobre as rotinas e demandas do setor.
 
